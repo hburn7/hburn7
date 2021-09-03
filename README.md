@@ -1,4 +1,4 @@
-### Hey, I'm Harry (aka Stage on the internet) 👋
+### Hey, I'm Harry 👋
 
 - 🔭 Developer of [Kaguya](https://github.com/kaguyabot/Kaguya) (RETIRED) | An all-in-one Discord chat bot solution
 - 🎣 Developer of [King Mackerel](https://github.com/stageosu/king-mackerel) fishing (current project) | The to-be best fishing game for Discord!

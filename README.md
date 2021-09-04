@@ -18,5 +18,5 @@
     - Started King Mackerel fishing July 2021 (paused temporarily as I am focusing on studies)
 ---
 ### Github Stats:
-[![Stage's github stats](https://github-readme-stats.vercel.app/api?username=stageosu&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stageosu&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Harry's github stats](https://github-readme-stats.vercel.app/api?username=hburn7&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hburn7&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

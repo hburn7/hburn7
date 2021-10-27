@@ -7,8 +7,7 @@
 - ✔️ C++
 - 📫 Contact: hburnett777@gmail.com
 - ℹ About Me:
-    - 20 years old
-    - Bachelor's of Science Candidate for Computer Science at UNC Asheville
+    - Bachelor's of Science Candidate for Computer Science
     - Began writing code Fall 2017 (100% self-taught)
     - Started the Kaguya Project January 2018, retired the project in July 2021
         - Used in ~5,000 Discord Communities

@@ -1,6 +1,6 @@
 ### Hey, I'm Harry 👋
 
-- 🔭 Developer of [Kaguya](https://github.com/kaguyabot/Kaguya) (RETIRED) | An all-in-one Discord chat bot solution
+- 🔭 Developer of [Kaguya](https://github.com/kaguyabot/Kaguya) (archived) | An all-in-one Discord chat bot solution
 - ✔️ C# | .NET Core
 - ✔️ Python
 - ✔️ Java

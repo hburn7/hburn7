@@ -5,7 +5,6 @@
 - ✔️ Python
 - ✔️ Java
 - ✔️ C++
-- 📫 Contact: hburnett777@gmail.com
 
 **Other Interests**
 - Scuba diving
@@ -14,5 +13,5 @@
 - Skiing and enjoying the snow in general
 ---
 ### Github Stats:
-[![Harry's github stats](https://github-readme-stats.vercel.app/api?username=hburn7&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=hburn7&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hburn7&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

@@ -1,4 +1,4 @@
-### Hey, Welcome to my Profile! 👋
+### Hey, welcome to my profile! 👋
 
 - 🔭 Developer of [Kaguya](https://github.com/kaguyabot/Kaguya) (archived) | An all-in-one Discord chat bot solution
 - ✔️ C# | .NET Core

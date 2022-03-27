@@ -8,8 +8,7 @@
 
 **Other Interests**
 - Scuba diving
-- Playing WoW (I raid!), Overwatch (support main [Ana]), osu!, Smash, Pokemon, and other Nintendo games!
-- Going for the occasional mountain hike
+- Playing WoW (ex-mythic raider), Overwatch, osu!, and Nintendo games
 - Skiing and enjoying the snow in general
 ---
 ### Github Stats:

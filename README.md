@@ -1,7 +1,8 @@
 ### Hey, welcome to my profile! 👋
 
-- 🔭 Developer of [Kaguya](https://github.com/kaguyabot/Kaguya) (archived) | An all-in-one Discord chat bot solution
-- ✔️ C# | .NET Core
+- 🔭 Creator of [o!Ref](https://github.com/hburn7/osuRef) (current project) | A referee chat client solution for [osu!](https://osu.ppy.sh/)
+- 🔭 Creator of [Kaguya](https://github.com/kaguyabot/Kaguya) (archived) | An all-in-one Discord chat bot solution
+- ✔️ C# | .NET Core | .NET MAUI
 - ✔️ Python
 - ✔️ Java
 - ✔️ C++
@@ -10,6 +11,7 @@
 - Scuba diving
 - Playing WoW (ex-mythic raider), Overwatch, osu!, and Nintendo games
 - Skiing and enjoying the snow in general
+- Organizing and playing in [osu!](https://osu.ppy.sh/) tournaments
 ---
 ### Github Stats:
 [![My github stats](https://github-readme-stats.vercel.app/api?username=hburn7&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

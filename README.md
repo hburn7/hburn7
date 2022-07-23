@@ -1,6 +1,6 @@
 ### Hey, welcome to my profile! 👋
 
-- 🔭 Creator of [o!Ref](https://github.com/hburn7/osuRef) (current project) | A referee chat client solution for [osu!](https://osu.ppy.sh/)
+- 🔭 Creator of [o!Ref](https://github.com/hburn7/osuRefMaui) (current project) | A referee chat client solution for [osu!](https://osu.ppy.sh/)
 - 🔭 Creator of [Kaguya](https://github.com/kaguyabot/Kaguya) (archived) | An all-in-one Discord chat bot solution
 - ✔️ C# | .NET Core | .NET MAUI
 - ✔️ Python

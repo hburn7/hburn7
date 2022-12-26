@@ -16,7 +16,7 @@
 
 [osu! profile](https://osu.ppy.sh/users/8191845)
 
-[Buy me a coffee :)](https://www.buymeacoffee.com/stagecodes)
+<a href="https://www.buymeacoffee.com/stagecodes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ---
 ### Github Stats:

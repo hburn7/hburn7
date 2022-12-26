@@ -15,6 +15,7 @@
 - Organizing and playing in [osu!](https://osu.ppy.sh/) tournaments
 
 [osu! profile](https://osu.ppy.sh/users/8191845)
+
 [Buy me a coffee :)](https://www.buymeacoffee.com/stagecodes)
 
 ---

@@ -20,5 +20,4 @@
 
 ---
 ### Github Stats:
-[![My github stats](https://github-readme-stats.vercel.app/api?username=hburn7&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hburn7&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://readme-stats.nozemi.io/api?username=hburn7&show_icons=true&theme=dark)](https://readme-stats.nozemi.io)

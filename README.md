@@ -1,9 +1,10 @@
 ### Hey, welcome to my profile! 👋
 
 - 🔭 Creator of [Brigitta](https://github.com/hburn7/Brigitta) | An IRC client for [osu!](https://osu.ppy.sh/) tournament referees.
-- 🔭 Creator of [BanchoSharp](https://github.com/hburn7/BanchoSharp) | A library for connecting to osu!Bancho and managing multiplayer lobbies seamlessly.
+- 🔭 Creator of [BanchoSharp](https://github.com/hburn7/BanchoSharp) | A C# library for connecting to osu!Bancho and managing multiplayer lobbies seamlessly.
 - 🔭 Creator of [Yuzuru](https://github.com/hburn7/Yuzuru) | A fun Discord bot with a small feature set. The nice thing about this project is my ability to quickly whip up custom tools for my own Discord servers or for friends. Currently active, join the [Yuzuru Discord](https://discord.gg/GkFR4xGKMM)!
 - 🔭 Creator of [Kaguya](https://github.com/kaguyabot/Kaguya) (archived) | An all-in-one Discord chat bot solution
+- 🔭 Creator of [SimpleMem](https://github.com/hburn7/SimpleMem) | A C# library that makes complex process memory reading and manipulation simple.
 - ✔️ *(Favorite Language)* -> C# 🤝 (ASP).NET Core | Blazor
 - ✔️ Python
 - ✔️ Java

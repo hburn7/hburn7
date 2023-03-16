@@ -13,7 +13,7 @@
 - [DeepOthello](https://github.com/hburn7/DeepOthello) | Python port of [OthelloAI](https://github.com/hburn7/OthelloAI), uses monte-carlo tree search and deep neural networks to play Othello. Self-play generated 80,000 unique game states used for training. Bitboard implementation using numpy. Still a WIP!
 - [OthelloAI](https://github.com/hburn7/OthelloAI) | C++ program that plays Othello vs self or human. Uses bitboards and minimax with alpha-beta pruning.
 
-
+**About:**
 - ✔️ *(Favorite Language)* -> C# 🤝 (ASP).NET Core | Blazor
 - ✔️ Python
 - ✔️ Java

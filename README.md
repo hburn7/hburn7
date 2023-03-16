@@ -1,10 +1,19 @@
 ### Hey, welcome to my profile! 👋
 
-- 🔭 Creator of [Brigitta](https://github.com/hburn7/Brigitta) | An IRC client for [osu!](https://osu.ppy.sh/) tournament referees.
-- 🔭 Creator of [BanchoSharp](https://github.com/hburn7/BanchoSharp) | A C# library for connecting to osu!Bancho and managing multiplayer lobbies seamlessly.
-- 🔭 Creator of [Yuzuru](https://github.com/hburn7/Yuzuru) | A fun Discord bot with a small feature set. The nice thing about this project is my ability to quickly whip up custom tools for my own Discord servers or for friends. Currently active, join the [Yuzuru Discord](https://discord.gg/GkFR4xGKMM)!
-- 🔭 Creator of [Kaguya](https://github.com/kaguyabot/Kaguya) (archived) | An all-in-one Discord chat bot solution
-- 🔭 Creator of [SimpleMem](https://github.com/hburn7/SimpleMem) | A C# library that makes complex process memory reading and manipulation simple.
+**General Software:**
+- [Brigitta](https://github.com/hburn7/Brigitta) | An IRC client for [osu!](https://osu.ppy.sh/) tournament referees.
+- [Yuzuru](https://github.com/hburn7/Yuzuru) | A fun Discord bot with a small feature set. The nice thing about this project is my ability to quickly whip up custom tools for my own Discord servers or for friends. Currently active, join the [Yuzuru Discord](https://discord.gg/GkFR4xGKMM)!
+- [Kaguya](https://github.com/kaguyabot/Kaguya) (archived) | An all-in-one Discord chat bot solution
+
+**Libraries:**
+- [BanchoSharp](https://github.com/hburn7/BanchoSharp) | A C# library for connecting to osu!Bancho and managing multiplayer lobbies seamlessly.
+- [SimpleMem](https://github.com/hburn7/SimpleMem) | A C# library that makes complex process memory reading and manipulation simple.
+
+**AI Projects:**
+- [DeepOthello](https://github.com/hburn7/DeepOthello) | Python port of [OthelloAI](https://github.com/hburn7/OthelloAI), uses monte-carlo tree search and deep neural networks to play Othello. Self-play generated 80,000 unique game states used for training. Bitboard implementation using numpy. Still a WIP!
+- [OthelloAI](https://github.com/hburn7/OthelloAI) | C++ program that plays Othello vs self or human. Uses bitboards and minimax with alpha-beta pruning.
+
+
 - ✔️ *(Favorite Language)* -> C# 🤝 (ASP).NET Core | Blazor
 - ✔️ Python
 - ✔️ Java

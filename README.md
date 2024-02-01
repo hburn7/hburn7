@@ -22,7 +22,7 @@
 
 **Other Interests**
 - Scuba diving
-- Playing WoW (ex-mythic raider), Overwatch, osu!, and Nintendo games
+- Playing WoW (mythic raider, sub rogue & disc priest), Overwatch, osu!, and Nintendo games
 - Skiing and enjoying the snow in general
 - Organizing and playing in [osu!](https://osu.ppy.sh/) tournaments
 

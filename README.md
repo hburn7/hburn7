@@ -1,6 +1,10 @@
 ### Hey, welcome to my profile! 👋
 **Portfolio:** https://stagec.xyz
 
+**Current Initiative: osu! Tournament Rating**
+A fully-featured data visualization suite & elo-like rating system for osu! tournament players.
+- Currently closed source - but will be fully open once we're ready :)
+
 **General Software:**
 - [Brigitta](https://github.com/hburn7/Brigitta) | An IRC client for [osu!](https://osu.ppy.sh/) tournament referees.
 - [Yuzuru](https://github.com/hburn7/Yuzuru) | A fun Discord bot with a small feature set. The nice thing about this project is my ability to quickly whip up custom tools for my own Discord servers or for friends. Currently active, join the [Yuzuru Discord](https://discord.gg/GkFR4xGKMM)!

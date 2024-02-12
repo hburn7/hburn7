@@ -20,6 +20,7 @@ A fully-featured data visualization suite & elo-like rating system for osu! tour
 
 **About:**
 - ✔️ *(Favorite Language)* -> C# 🤝 (ASP).NET Core | Blazor
+- ✔️ Rust
 - ✔️ Python
 - ✔️ Java
 - ✔️ C++

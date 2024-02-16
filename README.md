@@ -1,9 +1,8 @@
 ### Hey, welcome to my profile! 👋
 **Portfolio:** https://stagec.xyz
 
-**Current Initiative: osu! Tournament Rating**
+**Current Initiative: [osu! Tournament Rating]([url](https://github.com/osu-tournament-rating))**
 A fully-featured data visualization suite & elo-like rating system for osu! tournament players.
-- Currently closed source - but will be fully open once we're ready :)
 
 **General Software:**
 - [Brigitta](https://github.com/hburn7/Brigitta) | An IRC client for [osu!](https://osu.ppy.sh/) tournament referees.

@@ -1,7 +1,7 @@
 ### Hey, welcome to my profile! 👋
 **Portfolio:** https://stagec.xyz
 
-**Current Initiative: [osu! Tournament Rating]([url](https://github.com/osu-tournament-rating))**
+**Current Initiative: [osu! Tournament Rating](https://github.com/osu-tournament-rating)**
 A fully-featured data visualization suite & elo-like rating system for osu! tournament players.
 
 **General Software:**

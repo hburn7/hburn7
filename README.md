@@ -18,7 +18,7 @@ A fully-featured data visualization suite & elo-like rating system for osu! tour
 - [OthelloAI](https://github.com/hburn7/OthelloAI) | C++ program that plays Othello vs self or human. Uses bitboards and minimax with alpha-beta pruning.
 
 **About:**
-- ✔️ *(Favorite Language)* -> C# 🤝 (ASP).NET Core | Blazor
+- ✔️ *(Favorite)* ASP.NET Core / .NET Core
 - ✔️ Rust
 - ✔️ Python
 - ✔️ Java

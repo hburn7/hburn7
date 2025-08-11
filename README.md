@@ -1,6 +1,6 @@
-### Hey, welcome to my profile! 👋
+# Hey, welcome to my profile! 👋
 
-**Current Initiative: [osu! Tournament Rating](https://github.com/osu-tournament-rating) [(website)](https://otr.stagec.xyz/) [(docs)](https://docs.otr.stagec.xyz/)**
+## **Current Initiative: [osu! Tournament Rating](https://github.com/osu-tournament-rating) [(website)](https://otr.stagec.xyz/) [(docs)](https://docs.otr.stagec.xyz/)**
 A fully-featured data visualization suite & elo-like rating system for osu! tournament players.
 
 **General Software:**

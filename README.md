@@ -11,7 +11,10 @@ A fully-featured data visualization suite & elo-like rating system for osu! tour
 - [BanchoSharp](https://github.com/hburn7/BanchoSharp) | A C# library for connecting to osu!Bancho and managing multiplayer lobbies seamlessly.
 - [SimpleMem](https://github.com/hburn7/SimpleMem) | A C# library that makes complex process memory reading and manipulation simple.
 
-**AI Projects:**
+**"AI" Projects:**
+
+(Before AI meant LLM)
+
 - [DeepOthello](https://github.com/hburn7/DeepOthello) | Python port of [OthelloAI](https://github.com/hburn7/OthelloAI), uses monte-carlo tree search and deep neural networks to play Othello. Self-play generated 80,000 unique game states used for training. Bitboard implementation using numpy. Still a WIP!
 - [OthelloAI](https://github.com/hburn7/OthelloAI) | C++ program that plays Othello vs self or human. Uses bitboards and minimax with alpha-beta pruning.
 

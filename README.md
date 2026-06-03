@@ -2,7 +2,7 @@
 
 I'm a professional software developer who enjoys maintaining some open-source software in my free time. Currently, I am working on modernizing and expanding my team's end-to-end automated testing framework (Python 3.14).
 
-Check out some of my projets below!
+Check out some of my projects below!
 
 | Project | Status | Description | Links |
 |---------|--------|-------------|-------|
